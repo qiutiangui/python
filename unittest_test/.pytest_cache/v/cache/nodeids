@@ -1,0 +1,8 @@
+[
+  "baidu.py::BaiduTest::test_BaiduSearch_1_unittest",
+  "baidu.py::BaiduTest::test_BaiduSearch_2_selenium",
+  "baidu.py::BaiduTest::test_BaiduSearch_3_python",
+  "baidu.py::BaiduTest::test_BaiduSearch_4_pycharm",
+  "baidu.py::BaiduTest::test_BaiduSearch_5_pytest",
+  "baidu.py::BaiduTest::test_BaiduSearch_6_\u4e8c\u6b21\u5c01\u88c5"
+]
